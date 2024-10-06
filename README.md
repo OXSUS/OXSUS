@@ -1,6 +1,5 @@
-👋 Cześć, jestem @OXSUS, Java Developer.
-🌱 Uczę się mikroserwisów i optymalizacji.
-⚡ Lubię szybkie i wydajne rozwiązania.
+👋 Hej, jestem @OXSUS!
+👀 Interesuję się backendowym programowaniem i rozwiązaniami opartymi na Javie.
 
 <!---
 OXSUS/OXSUS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
